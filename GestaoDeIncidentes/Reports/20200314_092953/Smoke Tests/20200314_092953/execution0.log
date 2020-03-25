@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-03-14T09:29:58</date>
+  <millis>1584188998261</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Smoke Tests</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Smoke Tests</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Smoke Tests</property>
+</record>
+<record>
+  <date>2020-03-14T09:29:58</date>
+  <millis>1584188998279</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = alexandremagno - host.docker.internal</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">alexandremagno - host.docker.internal</property>
+</record>
+<record>
+  <date>2020-03-14T09:29:58</date>
+  <millis>1584188998281</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2020-03-14T09:29:58</date>
+  <millis>1584188998282</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.15.10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.15.10</property>
+</record>
+<record>
+  <date>2020-03-14T09:29:58</date>
+  <millis>1584188998283</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.3.3.11</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.3.3.11</property>
+</record>
+<record>
+  <date>2020-03-14T09:29:58</date>
+  <millis>1584188998811</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/deveCriarNovaOcorrencia</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/deveCriarNovaOcorrencia</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/deveCriarNovaOcorrencia</property>
+  <property name="source">C:\\Users\\alexandremagno\\Katalon Studio\\GestaoDeIncidentes\\Test Cases\\deveCriarNovaOcorrencia.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:00</date>
+  <millis>1584189000047</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : bizagi.BizagiWorkPortal.openBizagiPortal(Url)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:01</date>
+  <millis>1584189001560</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:01</date>
+  <millis>1584189001676</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:10</date>
+  <millis>1584189010514</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = ca938714b42f75a887d7a3ce08c300d5</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">ca938714b42f75a887d7a3ce08c300d5</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:10</date>
+  <millis>1584189010637</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Chrome 80.0.3987.132</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 80.0.3987.132</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:10</date>
+  <millis>1584189010637</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:10</date>
+  <millis>1584189010638</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.141.59</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.141.59</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:10</date>
+  <millis>1584189010639</millis>
+  <sequence>17</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011133</millis>
+  <sequence>19</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;http://p4notedev14/POCS/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011134</millis>
+  <sequence>20</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>bizagi.BizagiWorkPortal.openBizagiPortal is PASSED</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011135</millis>
+  <sequence>21</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : bizagi.BizagiWorkPortal.openBizagiPortal(Url)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011136</millis>
+  <sequence>22</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForPageLoad(MinValueWait)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011763</millis>
+  <sequence>24</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Wait for page load successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011764</millis>
+  <sequence>25</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForPageLoad(MinValueWait)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011764</millis>
+  <sequence>26</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : bizagi.BizagiWorkPortal.selectCase(0)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011767</millis>
+  <sequence>27</sequence>
+  <level>NOT_RUN</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>NOT_RUN: bizagi.BizagiWorkPortal.selectCase(0)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011767</millis>
+  <sequence>28</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : bizagi.BizagiWorkPortal.selectCase(0)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011768</millis>
+  <sequence>29</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : bizagi.BizagiWorkPortal.createNewCase(\&amp;quot;Gest\u00E3o de Incidentes\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011806</millis>
+  <sequence>31</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>No signature of method: bizagi.BizagiWorkPortal.createNewCase() is applicable for argument types: (java.lang.String) values: [Gest\u00E3o de Incidentes]\nPossible solutions: CreateNewCase(java.lang.String)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="failed.exception.class">org.codehaus.groovy.runtime.metaclass.MissingMethodExceptionNoStack</property>
+  <property name="failed.exception.stacktrace">org.codehaus.groovy.runtime.metaclass.MissingMethodExceptionNoStack: No signature of method: bizagi.BizagiWorkPortal.createNewCase() is applicable for argument types: (java.lang.String) values: [Gest\u00E3o de Incidentes]\nPossible solutions: CreateNewCase(java.lang.String)\r\n</property>
+  <property name="failed.exception.message">No signature of method: bizagi.BizagiWorkPortal.createNewCase() is applicable for argument types: (java.lang.String) values: [Gest\u00E3o de Incidentes]\nPossible solutions: CreateNewCase(java.lang.String)</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011810</millis>
+  <sequence>32</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : bizagi.BizagiWorkPortal.createNewCase(\&amp;quot;Gest\u00E3o de Incidentes\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011814</millis>
+  <sequence>34</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/deveCriarNovaOcorrencia FAILED.\nReason:\norg.codehaus.groovy.runtime.metaclass.MissingMethodExceptionNoStack: No signature of method: bizagi.BizagiWorkPortal.createNewCase() is applicable for argument types: (java.lang.String) values: [Gest\u00E3o de Incidentes]\nPossible solutions: CreateNewCase(java.lang.String)\r\n</message>
+  <exception>
+    <message>org.codehaus.groovy.runtime.metaclass.MissingMethodExceptionNoStack: No signature of method: bizagi.BizagiWorkPortal.createNewCase() is applicable for argument types: (java.lang.String) values: [Gestão de Incidentes]
+Possible solutions: CreateNewCase(java.lang.String)</message>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">org.codehaus.groovy.runtime.metaclass.MissingMethodExceptionNoStack: No signature of method: bizagi.BizagiWorkPortal.createNewCase() is applicable for argument types: (java.lang.String) values: [Gest\u00E3o de Incidentes]\nPossible solutions: CreateNewCase(java.lang.String)\r\n</property>
+  <property name="failed.exception.class">org.codehaus.groovy.runtime.metaclass.MissingMethodExceptionNoStack</property>
+  <property name="failed.exception.message">No signature of method: bizagi.BizagiWorkPortal.createNewCase() is applicable for argument types: (java.lang.String) values: [Gest\u00E3o de Incidentes]\nPossible solutions: CreateNewCase(java.lang.String)</property>
+</record>
+<record>
+  <date>2020-03-14T09:30:11</date>
+  <millis>1584189011913</millis>
+  <sequence>36</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/deveCriarNovaOcorrencia</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-14T09:30:14</date>
+  <millis>1584189014106</millis>
+  <sequence>37</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Smoke Tests</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
